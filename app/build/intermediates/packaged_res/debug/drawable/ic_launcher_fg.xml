@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simple snake icon: a green S shape -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#00C800"
+        android:pathData="M20,30 L88,30 L88,50 L38,50 L38,70 L88,70 L88,88 L20,88 L20,68 L70,68 L70,52 L20,52 Z"/>
+</vector>

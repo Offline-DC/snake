@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.snake.app-merged_res-20:/drawable_ic_launcher_fg.xml.flat",
+        "source": "com.snake.app-main-22:/drawable/ic_launcher_fg.xml"
+    },
+    {
+        "merged": "com.snake.app-merged_res-20:/layout_activity_main.xml.flat",
+        "source": "com.snake.app-main-22:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.snake.app-merged_res-20:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.snake.app-main-22:/mipmap-hdpi/ic_launcher.xml"
+    }
+]
